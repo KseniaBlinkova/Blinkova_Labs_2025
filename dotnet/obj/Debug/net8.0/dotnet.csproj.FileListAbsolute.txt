@@ -1,0 +1,15 @@
+/home/ksu/Blinkova_Labs_2025/dotnet/bin/Debug/net8.0/dotnet
+/home/ksu/Blinkova_Labs_2025/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/home/ksu/Blinkova_Labs_2025/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/home/ksu/Blinkova_Labs_2025/dotnet/bin/Debug/net8.0/dotnet.dll
+/home/ksu/Blinkova_Labs_2025/dotnet/bin/Debug/net8.0/dotnet.pdb
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.sourcelink.json
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.dll
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.pdb
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/home/ksu/Blinkova_Labs_2025/dotnet/obj/Debug/net8.0/ref/dotnet.dll
